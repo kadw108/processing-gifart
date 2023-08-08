@@ -1,1 +1,1 @@
-This exists mostly as a personal backup, but anyone is free to use my code and assets from here.
+Exists mostly as a personal backup, but anyone can use code and assets from here if they want to.
